@@ -1,4 +1,4 @@
-name: main
+name: catch2
 
 on:
   push:
